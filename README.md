@@ -1,2 +1,2 @@
-# Network_security_program for r Cipher encryption and decryption coding
-Program developed by Vivek vijayan (pydev) on 4 jul 
+# Network_security_program for Cipher encryption and decryption coding
+Program developed by Vivek vijayan (PyDev) on 4 jul 
