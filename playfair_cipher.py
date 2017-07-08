@@ -1,4 +1,4 @@
-#vivekIOT-Pydev * playfair encrypting coding
+#vivekIOT-Python developer * playfair encrypting coding
 #created on 8-7-2017 by Pydev
 class cipher():
 
