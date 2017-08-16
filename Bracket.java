@@ -3,7 +3,9 @@ import java.util.*;
 class Bracket
 {
 public static void main(String args[])
-{	Scanner a=new Scanner(System.in);
+{	
+	Scanner a=new Scanner(System.in);
+	System.out.println("Enter the Bracket sequence \n");
 	String s=a.next();
 	System.out.println("Checking the string");
 	String x=s.replace("(","*");
